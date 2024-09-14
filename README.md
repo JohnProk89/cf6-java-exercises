@@ -1,2 +1,4 @@
 # cf6-java-exercises
-Exercises submited during CF6
+Repo of Coding Factory 6 re-educational program (2024-3 to 2024-12)
+For my personal educational use
+Exercises done as homework
