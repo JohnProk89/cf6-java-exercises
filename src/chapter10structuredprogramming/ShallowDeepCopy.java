@@ -1,4 +1,4 @@
-package chapter10;
+package chapter10structuredprogramming;
 
 import java.util.Arrays;
 

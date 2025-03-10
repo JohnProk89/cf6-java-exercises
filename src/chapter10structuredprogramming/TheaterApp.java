@@ -1,4 +1,4 @@
-package chapter10;
+package chapter10structuredprogramming;
 
 /**
  * This is a booking management program for a theater

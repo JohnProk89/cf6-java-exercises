@@ -1,4 +1,4 @@
-package chapter10;
+package chapter10structuredprogramming;
 
 /**
  * The program calculates the maximum sum of the values of a sub array of an array

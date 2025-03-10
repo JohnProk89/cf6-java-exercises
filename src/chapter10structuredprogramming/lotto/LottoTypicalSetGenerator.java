@@ -1,4 +1,4 @@
-package chapter10.lotto;
+package chapter10structuredprogramming.lotto;
 
 import java.io.File;
 import java.io.FileNotFoundException;
